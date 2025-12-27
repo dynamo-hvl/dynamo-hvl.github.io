@@ -1,10 +1,10 @@
 - name: Mahdi Ghane
   photo: Dr_Ghane_high_res.png
-  info: Assistant Professor, started ? ?
+  info: Associate Professor, started June 2021
   number_email: 2
   email1: mahdi.Ghane@hvl.no
-  email2: mahdighane28@gmail.com
-  personal_website: "https://www.hvl.no/en/employee/?user=Mahdi.Ghane"
+  # email2: mahdighane28@gmail.com
+  HVL_website: "https://www.hvl.no/en/employee/?user=Mahdi.Ghane"
   # google_scholar: x
   number_educ: 3
   education1: 2018 Ph.D. Marine Cybernetics Technology, NTNU-MIT-Statoil PhD Fellow, Centre for Autonomous Marine Operations and Systems, NTNU.
