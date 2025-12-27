@@ -7,15 +7,17 @@ permalink: /
 ---
 
 <div style="text-align: justify;">
-The Data-Driven Dynamics Modeling and Control (DYNAMO) Laboratory at the [Western Norway University of Applied Sciences](https://www.hvl.no/en/) focuses on advancing robotics and intelligent control systems through rigorous mathematical modeling. The lab’s work centers on understanding the behavior of mechanical and robotic systems by extracting structure, patterns, and governing equations directly from data. This approach enables the development of more accurate models, adaptive controllers, and efficient algorithms for real-world robotic applications. Our research spans system identification, nonlinear dynamics, machine learning–based modeling, and control strategies designed to improve performance, robustness, and autonomy in modern robotic platforms.
+The Data-Driven Dynamics, Modeling and Control (DYNAMO) Laboratory at the [Western Norway University of Applied Sciences](https://www.hvl.no/en/) focuses on the analysis, modeling, and control of mechatronic and robotic systems operating in uncertain and dynamic environments. The lab’s work emphasizes a physics-informed and data-driven understanding of system behavior, combining mathematical modeling with experimental insight to support reliable decision-making in stochastic settings.
+
+Research activities span mechatronic system design, system identification, nonlinear and stochastic dynamics, and control architectures for autonomous and semi-autonomous systems. The laboratory is open to and actively encourages collaboration in machine learning, artificial intelligence, system-level modeling, and discrete-event and decision-based modeling, particularly where these approaches complement physical modeling and real-world implementation. Through interdisciplinary collaboration, DYNAMO aims to develop robust, interpretable, and deployable solutions for modern control and robotic applications.
 </div>
 
+
 <figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/students1.jpg" style="width: 600px">
+  <img src="/images/lab2022.jpg" style="width: 600px">
 </figure>
 
  **If you are interested in joining our team, please reach out here** [(more info)]({{ site.url }}{{ site.baseurl }}/contact) **!**
- 
- 
-Funding support has been provided by the University of Waterloo, [Centre for Bioengineering and Biotechnology](https://uwaterloo.ca/bioengineering-biotechnology/) and the [Network for Aging Research](https://uwaterloo.ca/network-for-aging-research/).
 
+ 
+Funding support has been provided by the Western Norway University of Applied Sciences, Norway Mobility Program and [The Research Council of Norway](https://www.forskningsradet.no/en/).
