@@ -1,11 +1,32 @@
-- project: Condition monitoring
-  photo: Condition monitoring of spar-type floating wind turbine drivetrain using statistical fault diagnosis.png
-  desc: 
+- project: An effective production System of Systems for fruit and berries
+  status: On-going
+  photo: RoboRaSP.jpg
+  collaborators:
+    - HVL
+    - Vestlandsforsking
+    - nLink
+    - Sognabær
+    - Sogn Frukt og Grønt
+  desc: >
+    Robotics and data science are being explored as means to transform fruit and berry production into a smarter and more sustainable system. 
+    Robot- and data-driven solutions are being developed and tested in real agricultural environments, with the aim that labor challenges may be reduced,
+    productivity increased, and sustainability improved. Practical tools that can be trusted by farmers are intended to be created. 
+    Through collaboration among growers, researchers, and technology partners, measurable, replicable, and future-ready production 
+    systems for crops such as raspberries are being designed.
 
-- project: Fault-Tolerant Control
-  photo: Pitch Actuator Fault-Tolerant Control of Wind Turbines via an L1 Adaptive Sliding Mode Control.png
-  desc: 
 
-- project: Fault Diagnosis
-  photo: Statistical fault diagnosis of wind turbine drivetrain applied to a 5MW floating wind turbine.png
-  desc: 
+- project: USVs Integration in Offshore Wind for Zero Emission O&M Using Digital Twin (USV0-OWDT).
+  status: On-going 
+  photo: OWOM.jpg 
+  collaborators: 
+    - HVL 
+    - Safetec As 
+    - Deep Ocean 
+    - Deep Wind Offshore 
+  desc: > 
+    Operation and Maintenance (O&M) of offshore wind farms are analyzed using a Discrete Event Simulation–based 
+    optimization framework. Offshore wind systems are modeled as complex, uncertain environments where failures, 
+    weather, logistics, and resources interact dynamically. By combining simulation with optimization, different
+    maintenance and logistics strategies are evaluated to identify cost-effective solutions. The approach is 
+    intended to reduce O&M costs, improve turbine availability, and support better decision-making for offshore
+    wind farm planning and operations.

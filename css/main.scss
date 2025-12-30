@@ -118,3 +118,13 @@ figcaption {
     font-size: 0.9em;     /* match your figcaption font size */
     white-space: nowrap;  /* prevent line breaks inside math if desired */
 }
+
+/*mahdi
+/* Consistent team pictures */
+.profile-photo {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 10%;
+  box-shadow: 2px 2px 5px #888;
+}

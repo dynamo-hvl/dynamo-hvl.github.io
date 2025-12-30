@@ -1,6 +1,20 @@
-- name: David Ling
-  info: MASC candidate (started May 2018)
-- name: Harish Rao
-  info: MASC candidate, co-supervised by N. Chandrashekar (started September 2017)
-- name: Matheus Correia
-  info: MASC candidate, co-supervised by D. Cronin (started May 2018)
+- name: Sedigheh Sadeghi
+  photo: sedigheh.jpg
+  level: PhD Student
+  topic: Offshorw wind operation and maintennace
+  start: 2025
+  email: sedigheh.sadeghi@hvl.no
+
+- name: Beatriz Lopez Rodriguez
+  photo: beartiz.png
+  level: PhD Student (co-supervisor)
+  topic: System modeling and optimization of fruit and berries
+  start: 2023
+  email: beatriz.lopez.rodriguez@hvl.no
+
+- name: Salman M Sakkeer
+  photo: salman.jpg
+  level: M.Sc. Student 
+  topic: Generative AI for Automated Integrated Logistic Support (ILS) Documentation in Maritime Systems
+  start: 2025
+  email: salmansakkeer98@gmail.com

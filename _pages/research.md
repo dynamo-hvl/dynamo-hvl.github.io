@@ -1,40 +1,44 @@
 ---
 title: "DYNAMO - Research"
 layout: gridlay
-excerpt: "DYNAMO -- Research"
+excerpt: "DYNAMO — Research"
 sitemap: false
 permalink: /research/
 ---
 
-# Research Areas 
+# Research
 
-We in DYNAMO have carried out extensive research on the control and modeling of industrial systems, with a strong emphasis on fault diagnosis, condition monitoring, and robust control strategies. Our work has resulted in multiple peer-reviewed publications covering advanced monitoring techniques, data-driven diagnostics, and control methods for large-scale mechanical and energy systems.
+We develop theory-driven and data-driven approaches for monitoring, control,
+and diagnostics in engineering systems. Below is a selection of ongoing and
+completed research projects.
 
-{% assign number_printed = 0 %}
 {% for area in site.data.research %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+<div class="row" style="margin-bottom:30px">
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+<div class="col-sm-12">
+  <h3>{{ area.project }}</h3>
+</div>
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ area.photo }}" class="img-responsive" width="50%" style="float: left" />
-  <h4>{{ area.project }}</h4>
-  <i>{{ area.desc }}</i>
+<div class="col-sm-7">
+  <p><b>Status:</b> {{ area.status }}</p>
+  <p>{{ area.desc }}</p>
+  {% if area.collaborators %}
+  <p><b>Collaborators:</b> {{ area.collaborators | join: ", " }}</p>
+  {% endif %}
+</div>
+
+<div class="col-sm-5">
+  <img
+  src="{{ '/images/' | append: area.photo | relative_url }}"
+  class="img-responsive"
+  style="max-width: 250px; width: 120%; border-radius:6px; box-shadow:2px 2px 6px #bbb;" />
 
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
 </div>
-{% endif %}
+
+
+<hr>
 
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
