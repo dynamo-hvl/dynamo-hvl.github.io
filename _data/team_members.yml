@@ -1,6 +1,21 @@
-- name: Mahdi Ghane
-  photo: Dr_Ghane_high_res.png
+- name: Dr. Mahdi Ghane
+  photo: mahdis.png
   role: Lab Director
   info: Associate Professor, Automation & Robotics
   email: mahdi.ghane@hvl.no
   website: https://www.hvl.no/en/employee/?user=Mahdi.Ghane
+
+- name: Dr. Faiga M. Alawad
+  photo: faiga.jpg
+  role: 
+  info: Assistant Professor, Automation & Robotics
+  email: faiga.alawad@hvl.no
+  website: https://www.hvl.no/person/?user=faiga.alawad
+
+- name: Harald Spångberg
+  photo: harald.png
+  role: 
+  info: Assistant Head of Department, Automation & Robotics
+  email: Harald.Spangberg@hvl.no
+  website: https://www.hvl.no/en/employee/?user=Harald.Spangberg
+

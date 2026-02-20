@@ -9,7 +9,7 @@ permalink: /people/
 # Team
 
 
-## Lab Director
+
 {% for member in site.data.team_members %}
 <div class="row">
 <div class="col-sm-6 clearfix">
@@ -22,6 +22,8 @@ email: <{{ member.email }}><br>
 </div>
 </div>
 {% endfor %}
+
+
 
 
 ## Collaborators

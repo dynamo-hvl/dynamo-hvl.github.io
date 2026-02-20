@@ -1,0 +1,35 @@
+- authors: "Jalalnezhad, Mostafa; Keymasi-Khalaji, Ali; Ghane, Mahdi"
+  year: 2025
+  title: "Adaptive backstepping control for underwater robots in complex environments"
+  journal: "Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering"
+  type: "Academic article"
+  url: "https://journals.sagepub.com/doi/abs/10.1177/09596518241300663"
+
+- authors: "Fayazi, A.; Ghayoumi Zadeh, H.; Ahmadian, H.; Ghane, M.; Seryasat, O. R."
+  year: 2024
+  title: "Pitch actuator fault-tolerant control of wind turbines via an L1 adaptive sliding mode control (SMC) scheme"
+  journal: "Energies, 17(16), 3963"
+  type: "Academic article"
+  url: "https://www.mdpi.com/1996-1073/17/16/3963"
+
+
+- authors: "Mehrabani, M. B. M.; Khalaji, A. K.; Ghane, M."
+  year: 2023
+  title: "Control of a group of uncertain wheeled robots with global inputs in the presence of obstacles"
+  journal: "Proceedings of the Institution of Mechanical Engineers, Part K: Journal of Multi-body Dynamics"
+  type: "Academic article"
+  url: "https://journals.sagepub.com/doi/abs/10.1177/14644193221140442"
+
+- authors: "Khalaji, A. K.; Ghane, M."
+  year: 2022
+  title: "A physically motivated control algorithm for an autonomous underwater vehicle"
+  journal: "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science"
+  type: "Academic article"
+  url: "https://journals.sagepub.com/doi/abs/10.1177/09544062211002233"
+
+- authors: "Ghane, M.; Rasekhi Nejad, A.; Blanke, M.; Gao, Z.; Moan, T."
+  year: 2018
+  title: "Condition monitoring of spar-type floating wind turbine drivetrain using statistical fault diagnosis"
+  journal: "Wind Energy, 21(7), 575-589"
+  type: "Academic article"
+  url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/we.2179"
