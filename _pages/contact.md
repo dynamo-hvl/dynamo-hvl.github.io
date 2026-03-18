@@ -1,5 +1,5 @@
 ---
-title: "Orthotron - Contact"
+title: "Dynamo - Contact"
 layout: default
 excerpt: "Contact"
 sitemap: false
@@ -7,12 +7,8 @@ permalink: /contact/
 ---
 
 # Open Positions 
-
-We are currently looking for new graduate students interested in the following projects:
-* Use of machine learning and inertial sensors for musculoskeletal rehabilitation
-
-* Development of a robotic manipulator for characterization of bone-implant mechanics
+We currently do not have funded open positions. However, we welcome motivated students interested in robotics, control, and data-driven systems. If you are interested in joining the lab, please reach out to discuss potential projects or funding opportunities.
 
 # General Inquiries
 
-For interest as a PhD student or Postdoc, please send me an [email](mailto:stewart.mclachlin@uwaterloo.ca). State briefly your interest in joining the ORTHOtron lab, relevant experience/skills and attach a CV. 
+For interest as a PhD student or Postdoc, please send me an [email](mahg@hvl.no). State briefly your interest in joining the DYNAMO lab, relevant experience/skills and attach a CV. 

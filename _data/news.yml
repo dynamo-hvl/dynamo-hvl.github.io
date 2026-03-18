@@ -1,5 +1,13 @@
-- date: 08. July 2018 this is changed
-  headline: Dr. McLachlin will be presenting two studies at WCB in Dublin.
 
-- date: 07. June 2018
-  headline: Launch of lab website
+- date: 18 Mar 2025
+  headline: Bouvet donates a KUKA robotic arm to support robotics research and education at HVL Haugesund.
+  description: The donated robotic system will be used for hands-on student projects and research in automation, control, and intelligent robotic systems, strengthening collaboration between industry and academia.
+  image: images/Kuka.png
+  
+- date: 03 Nov 2025
+  headline: First PhD student recruited to strengthen robotics research at HVL Haugesund.
+  description: This marks an important step in building research capacity in automation and robotics at the Haugesund campus.
+
+- date: 08 Mar 2026
+  headline: Dr. Naseem Ali joins as a visiting researcher from Helmholtz-Zentrum Hereon for a three-month collaboration on offshore energy systems, supported by the HiDA mobility program.
+  description: The collaboration focuses on extending the iSeaPower decision support system by integrating optimization and discrete event simulation methods for offshore operation and maintenance planning.
